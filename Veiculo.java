@@ -1,4 +1,4 @@
-package poo;
+
 import java.util.Objects;
 import java.util.List;
 import java.util.ArrayList;
@@ -20,7 +20,7 @@ public Veiculo(ArrayList<Aluguer> historico){
         }
    }
 
-  //construtor de cÃ³pia
+  //construtor de copia
 public Veiculo(Veiculo outroVeiculo) {
         this.historico = outroVeiculo.getHistorico();
 }
