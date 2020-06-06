@@ -1,5 +1,5 @@
 # POO
-Serviço de aluguer de carros online
+Serviço de aluguer de carros online 2018/19
 
 
-Projeto de **Programação Orientada a Objetos** *UM Carro Já!* 2018/2019
+Projeto de **Programação Orientada a Objetos** *UM Carro Já!*
