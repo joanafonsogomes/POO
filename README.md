@@ -1,7 +1,6 @@
 # POO
-Serviço de aluguer de carros online *UM Carro Já!*
+Online car rental service *UM Carro Já!*
 
-
-Projeto de **Programação Orientada a Objetos** em Java 2018/19.
+**Object-oriented Programming (Programação Orientada a Objetos)** Java Project 2018/19.
 
 ###### By [@joanafonsogomes](https://github.com/joanafonsogomes) [@SusanaMarques](https://github.com/SusanaMarques) [@HenriquePazz](https://github.com/HenriquePazz) 
